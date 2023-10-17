@@ -19,7 +19,7 @@
   
 ![](/USA_SALES.png)
 
-## ![2. Cardiovascular Disease EDA using Python](/Projects/Cardiovascular_EDA.ipynb)
+## [2. Cardiovascular Disease EDA using Python](/Projects/Cardiovascular_EDA.ipynb)
 * This EDA project offers a comprehensive understanding of cardiovascular disease causes, empowering targeted strategies for prevention and intervention.
 * Thorough investigations encompassed crucial health parameters such as weight levels, blood pressure, glucose levels, cholesterol, alcohol consumption, and smoking habits.
 * Rigorous data cleaning in Excel ensures data integrity, addressing missing values and outliers to fortify the reliability of our analyses.
@@ -30,7 +30,7 @@
 
 ![](/Python_eda.png)
 
-## ![3. Music Store Analysis using SQL](/Projects/Music_Store_Query.sql)
+## [3. Music Store Analysis using SQL](/Projects/Music_Store_Query.sql)
 * Developed a PostgreSQL schema for a music store, efficiently organizing data on invoices,
   customer details, and items.
 * Implemented SQL queries for insightful analytics, unveiling trends like popular items,
