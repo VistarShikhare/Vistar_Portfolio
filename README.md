@@ -2,13 +2,13 @@
 # Aspiring Data Analyst
 ### Software Skills: Excel, SQL, PowerBi, Python
 
-## Education
+# Education
 - Bachelor's in Computer Application | 2023
 - Rosary College of Commerce & Arts, Goa
 - Secured 8.5 FGPA
 
-## Projects
-# Project 1: American Superstore Sales Analysis using Power Bi
+# Projects
+## 1. American Superstore Sales Analysis using Power Bi
 * Identified the state contributing the most revenue, along with pinpointing the store's best
   selling item.The project offers a strategic perspective for informed decision-making by
   combining detailed data
@@ -20,7 +20,7 @@
   
 ![](/USA_SALES.png)
 
-# Project 2: Cardiovascular Disease EDA using Python
+## ![2. Cardiovascular Disease EDA using Python]
 * This EDA project offers a comprehensive understanding of cardiovascular disease causes, empowering targeted strategies for prevention and intervention.
 * Thorough investigations encompassed crucial health parameters such as weight levels, blood pressure, glucose levels, cholesterol, alcohol consumption, and smoking habits.
 * Rigorous data cleaning in Excel ensures data integrity, addressing missing values and outliers to fortify the reliability of our analyses.
@@ -30,3 +30,13 @@
   within the data accessible and aiding in intuitive comprehension.
 
 ![](/Python_eda.png)
+
+## 3. Music Store Analysis using SQL
+* Developed a PostgreSQL schema for a music store, efficiently organizing data on invoices,
+  customer details, and items.
+* Implemented SQL queries for insightful analytics, unveiling trends like popular items,
+  customer behavior, and sales patterns.
+* Ensured data efficiency through normalization techniques, minimizing redundancy, and
+* optimizing database performance.
+
+
