@@ -17,4 +17,4 @@ Example Data Analyst portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask
 
-![](/USA%20SALES.png)
+![](/USA_SALES.png)
