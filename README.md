@@ -8,7 +8,7 @@ Example Data Analyst portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask
 
-![](https://github.com/VistarShikhare/Vistar_Portfolio/blob/main/Python_eda.png)
+![](/Python_eda.png)
 
 # [Project 2: PYTHON] 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
@@ -17,4 +17,4 @@ Example Data Analyst portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask
 
-![](https://github.com/VistarShikhare/Vistar_Portfolio/blob/main/USA%20SALES.png)
+![](/USA%20SALES.png)
