@@ -1,5 +1,5 @@
 # Aspiring Data Analyst
-### Software Skills: Excel, SQL, PowerBi, Python
+### Skills: Excel, SQL, PowerBi, Python
 
 # Education
 - Bachelor's in Computer Application (2023)
