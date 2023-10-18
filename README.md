@@ -30,7 +30,7 @@
 
 ![](/Python_eda.png)
 
-## [3. Music Store Analysis using SQL](/Projects/Music_Store_Query.sql)
+## [3. Music Store Analysis using SQL](https://github.com/VistarShikhare/Vistar_Portfolio/blob/main/Projects/Music_Store_Query.sql)
 * Developed a PostgreSQL schema for a music store, efficiently organizing data on invoices,
   customer details, and items.
 * Implemented SQL queries for insightful analytics, unveiling trends like popular items,
