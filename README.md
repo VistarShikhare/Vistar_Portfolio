@@ -19,7 +19,7 @@
   
 ![](/USA_SALES.png)
 
-## [2. Cardiovascular Disease EDA using Python](/Projects/Cardiovascular_EDA.ipynb)
+## [2. Cardiovascular Disease EDA using Python](https://github.com/VistarShikhare/Vistar_Portfolio/blob/main/Projects/Cardiovascular_EDA.ipynb)
 * This EDA project offers a comprehensive understanding of cardiovascular disease causes, empowering targeted strategies for prevention and intervention.
 * Thorough investigations encompassed crucial health parameters such as weight levels, blood pressure, glucose levels, cholesterol, alcohol consumption, and smoking habits.
 * Rigorous data cleaning in Excel ensures data integrity, addressing missing values and outliers to fortify the reliability of our analyses.
